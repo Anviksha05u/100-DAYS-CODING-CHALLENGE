@@ -4,15 +4,15 @@
 int main()
 {
   int n;
-  printf("Enter an integer");
+  printf("Enter an integer: ");
   scanf("%d", &n);
   if (n % 2 == 0)
   {
-   printf(n+ " is even\n");
+   printf("%d is even\n", n);
   } 
   else
   {
-   printf(n+ " is odd\n");
+   printf("%d is odd\n", n);
   }
   return 0;
 }
