@@ -27,3 +27,7 @@
 -[DAY 7 outputQ13.txt](DAY%207/outputQ13.txt)
 -[DAY 7 mainQ14.c](DAY%207/mainQ14.c)
 -[DAY 7 outputQ14.txt](DAY%207/outputQ14.txt)
+-[DAY 8 mainQ15.c](DAY%208/mainQ15.c)
+-[DAY 8 outputQ15.txt](DAY%208/outputQ15.txt)
+-[DAY 8 mainQ16.c](DAY%208/mainQ16.c)
+-[DAY 8 outputQ16.txt](DAY%208/outputQ16.txt)
