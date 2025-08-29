@@ -1,6 +1,7 @@
 //Write a program to find the roots of a quadratic equation and categorize them.
 
 #include <stdio.h>
+#include <math.h>
 int main()
 {
  float a, b, c;
@@ -14,7 +15,7 @@ int main()
    root2 = (-b - sqrt(discriminant)) / (2 * a);
    printf("Roots are real and different: %.0f, %.0f\n", root1, root2);
  }
- else if (discriminanat == 0)
+ else if (discriminant == 0)
  {
    root1 = -b / (2 * a);
    printf("Roots are real and same: %.0f\n", root1);
