@@ -35,3 +35,7 @@
 -[DAY 9 outputQ17.txt](DAY%209/outputQ17.txt)
 -[DAY 9 mainQ18.c](DAY%209/mainQ18.c)
 -[DAY 9 outputQ18.txt](DAY%209/outputQ18.txt)
+-[DAY 10 mainQ19.c](DAY%2010/mainQ19.c)
+-[DAY 10 outputQ19.txt](DAY%2010/outputQ19.txt)
+-[DAY 10 mainQ20.c](DAY%2010/mainQ20.c)
+-[DAY 10 outputQ20.txt](DAY%2010/outputQ20.txt)
