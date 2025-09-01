@@ -43,3 +43,7 @@
 -[DAY 11 outputQ21.txt](DAY%2011/outputQ21.txt)
 -[DAY 11 mainQ22.c](DAY%2011/mainQ22.c)
 -[DAY 11 outputQ22.txt](DAY%2011/outputQ22.txt)
+-[DAY 12 mainQ23.c](DAY%2012/mainQ23.c)
+-[DAY 12 outputQ23.txt](DAY%2012/outputQ23.txt)
+-[DAY 12 mainQ24.c](DAY%2012/mainQ24.c)
+-[DAY 12 outputQ24.txt](DAY%2012/outputQ24.txt)
