@@ -9,17 +9,17 @@ int main()
     if (days >= 1 && days <= 7) 
     {
       fine = days * 2;
-      printf("Fine ₹%d", fine);
+      printf("Fine Rs %d\n", fine);
     }
     else if (days >= 8 && days <= 14)
     {
       fine = days * 4;
-      printf("Fine ₹%d", fine);
+      printf("Fine Rs %d", fine);
     }
     else if (days >= 15 && days <= 30)
     {
       fine = days * 6;
-      printf("Fine ₹%d", fine);
+      printf("Fine Rs %d", fine);
     } 
     else if (days > 30)
     {
