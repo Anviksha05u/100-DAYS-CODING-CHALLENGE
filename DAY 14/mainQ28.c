@@ -4,18 +4,17 @@
 int main()
 {
   int n, i;
-  int product = 1; 
-  int even = 0;  
+  int product = 1;  
   printf("Enter the value of n: ");
   scanf("%d", &n);
   for (i = 2; i <= n; i += 2) 
   {
     product *= i;
-    even = 1;
+    if (i == 2)
+    printf("(%d ", i);
+    else
+    printf("* %d)", i);
   }
-  if (even)
-  printf("Product %d", product);
-  else
-  printf("No even numbers %d", n);
+  printf(" %d", product);
   return 0;
 }
