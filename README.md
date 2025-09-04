@@ -55,3 +55,7 @@
 -[DAY 14 outputQ27.txt](DAY%2014/outputQ27.txt)
 -[DAY 14 mainQ28.c](DAY%2014/mainQ28.c)
 -[DAY 14 outputQ28.txt](DAY%2014/outputQ28.txt)
+-[DAY 15 mainQ29.c](DAY%2015/mainQ29.c)
+-[DAY 15 outputQ29.txt](DAY%2015/outputQ29.txt)
+-[DAY 15 mainQ30.c](DAY%2015/mainQ30.c)
+-[DAY 15 outputQ30.txt](DAY%2015/outputQ30.txt)
