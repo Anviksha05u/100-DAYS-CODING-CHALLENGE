@@ -63,3 +63,7 @@
 -[DAY 16 outputQ31.txt](DAY%2016/outputQ31.txt)
 -[DAY 16 mainQ32.c](DAY%2016/mainQ32.c)
 -[DAY 16 outputQ32.txt](DAY%2016/outputQ32.txt)
+-[DAY 17 mainQ33.c](DAY%2017/mainQ33.c)
+-[DAY 17 outputQ33.txt](DAY%2017/outputQ33.txt)
+-[DAY 17 mainQ34.c](DAY%2017/mainQ34.c)
+-[DAY 17 outputQ34.txt](DAY%2017/outputQ34.txt)
