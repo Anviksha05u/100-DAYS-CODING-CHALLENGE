@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main() 
 {
-  int n, temp, d, c = 0, sum = 0, power = 1;
+  int n, temp, d, c = 0, sum = 0;
   printf("Enter a number: ");
   scanf("%d", &n);
   temp = n;
@@ -16,6 +16,7 @@ int main()
   while (temp != 0)
   {
     d = temp % 10;
+    int power = 1;
     for (int i = 1; i <= c; i++)
     {
       power *= d;
