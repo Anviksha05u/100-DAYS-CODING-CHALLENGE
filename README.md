@@ -71,3 +71,7 @@
 -[DAY 18 outputQ35.txt](DAY%2018/outputQ35.txt)
 -[DAY 18 mainQ36.c](DAY%2018/mainQ36.c)
 -[DAY 18 outputQ36.txt](DAY%2018/outputQ36.txt)
+-[DAY 19 mainQ37.c](DAY%2019/mainQ37.c)
+-[DAY 19 outputQ37.txt](DAY%2019/outputQ37.txt)
+-[DAY 19 mainQ38.c](DAY%2019/mainQ38.c)
+-[DAY 19 outputQ38.txt](DAY%2019/outputQ38.txt)
