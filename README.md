@@ -79,3 +79,7 @@
 -[DAY 20 outputQ39.txt](DAY%2020/outputQ39.txt)
 -[DAY 20 mainQ40.c](DAY%2020/mainQ40.c)
 -[DAY 20 outputQ40.txt](DAY%2020/outputQ40.txt)
+-[DAY 21 mainQ41.c](DAY%2021/mainQ41.c)
+-[DAY 21 outputQ41.txt](DAY%2021/outputQ41.txt)
+-[DAY 21 mainQ42.c](DAY%2021/mainQ42.c)
+-[DAY 21 outputQ42.txt](DAY%2021/outputQ42.txt)
