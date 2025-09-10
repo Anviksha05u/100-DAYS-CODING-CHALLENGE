@@ -19,21 +19,13 @@ int main()
     printf("Swapped Number: %d\n", n);
     return 0;
   }
-  temp = n;
-  for (int i = 0; i < c; i++) 
-  {
-    temp /= 10;
-  }
-  middle = n % place;
-  for (int i = 0; i < c; i++) 
-  {
-    middle /= 10;
-  }
   for (int i = 0; i < c; i++) 
   {
     place *= 10;
   }
+  middle = n % place;
+  middle /= 10;
   swap = last * place + middle * 10 + first;
-  printf("Swapped Number: %d\n", swapp);
+  printf("Swapped Number: %d\n", swap);
   return 0;
 }
