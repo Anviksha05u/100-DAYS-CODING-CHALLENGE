@@ -3,19 +3,30 @@
 #include <stdio.h>
 int main() 
 {
-  int bin, d, c = 0, place = 1;
+  long long bin, temp, rev=0;
+  int d, c = 0;
   printf("Enter a binary number: ");
-  scanf("%d", &bin);
-  while (bin != 0) 
+  scanf("%lld", &bin);
+  temp = bin;
+  while (temp > 0) 
   {
-    d = bin % 10;
-    if (d == 0)
-    c += 1 * place;
-    else
-    c += 0 * place;
-    place *= 10;
-    bin /= 10;
+    c++;
+    temp /= 10;
   }
-  printf("1's complement : %d", c);
+  temp = bin;
+  while (temp > 0) 
+  {
+    d = temp % 10;
+    rev = rev * 10 + d;
+    temp /= 10;
+  }
+  printf("1's Complement: ");
+  for (int i = 0; i < c; i++) 
+  {
+    d = rev % 10;
+    rev /= 10;
+    printf("%d", d == 0 ? 1 : 0);
+  }
+  printf("\n");
   return 0;
 }
