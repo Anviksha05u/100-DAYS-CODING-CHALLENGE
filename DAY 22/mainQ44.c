@@ -7,10 +7,14 @@ int main()
   float sum=0.0;
   printf("Enter the number of terms: ");
   scanf("%d", &n);
-  for (i=0; i<=n; i++)
+  if (n>=1)
   {
-    sum=sum+(2.0*i)-1/(2.0*i);
+    sum = 1.0;
   }
-  printf("Sum of the series: ");
+  for (i=2; i<=n; i++)
+  {
+    sum=sum+(2.0*i-1) / (2.0*i);
+  }
+  printf("Sum of the series: %.1f\n", sum);
   return 0;
 }
